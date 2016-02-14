@@ -17,20 +17,20 @@
 	<link href="main.css" rel="stylesheet">
 	<link href="responsive.css" rel="stylesheet">
     <!--[if lt IE 9]>
-    <script src="js/html5shiv.js"></script>
-    <script src="js/respond.min.js"></script>
+    <script src="html5shiv.js"></script>
+    <script src="respond.min.js"></script>
     <![endif]-->       
     
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/ico/apple-touch-icon-72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57-precomposed.png">
-    <link href="css/ddsmoothmenu.css" rel="stylesheet" type="text/css" />
+    <link href="ddsmoothmenu.css" rel="stylesheet" type="text/css" />
 
-    <script src="css/jquery.min.js" type="text/javascript"></script>
+    <script src="jquery.min.js" type="text/javascript"></script>
 
 
-    <script src="css/ddsmoothmenu.js" type="text/javascript"></script>
+    <script src="ddsmoothmenu.js" type="text/javascript"></script>
     <script type="text/javascript" src="scripts/jquery-1.4.1.min.js"></script>
 <script type="text/javascript" src="js/jquery.min.js"></script>
     <script language="javascript" type="text/javascript">
